@@ -1,0 +1,15 @@
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/bin/Debug/net9.0/1_BasicsOfCsharp
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/bin/Debug/net9.0/1_BasicsOfCsharp.deps.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/bin/Debug/net9.0/1_BasicsOfCsharp.runtimeconfig.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/bin/Debug/net9.0/1_BasicsOfCsharp.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/bin/Debug/net9.0/1_BasicsOfCsharp.pdb
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.AssemblyInfoInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.AssemblyInfo.cs
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.csproj.CoreCompileInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.sourcelink.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/refint/1_BasicsOfCsharp.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.pdb
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/1_BasicsOfCsharp.genruntimeconfig.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/Debug/net9.0/ref/1_BasicsOfCsharp.dll
