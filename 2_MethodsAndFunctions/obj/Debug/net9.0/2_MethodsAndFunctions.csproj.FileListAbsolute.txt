@@ -1,0 +1,15 @@
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/bin/Debug/net9.0/2_MethodsAndFunctions
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/bin/Debug/net9.0/2_MethodsAndFunctions.deps.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/bin/Debug/net9.0/2_MethodsAndFunctions.runtimeconfig.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/bin/Debug/net9.0/2_MethodsAndFunctions.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/bin/Debug/net9.0/2_MethodsAndFunctions.pdb
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.AssemblyInfoInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.AssemblyInfo.cs
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.csproj.CoreCompileInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.sourcelink.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/refint/2_MethodsAndFunctions.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.pdb
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/2_MethodsAndFunctions.genruntimeconfig.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/2_MethodsAndFunctions/obj/Debug/net9.0/ref/2_MethodsAndFunctions.dll
