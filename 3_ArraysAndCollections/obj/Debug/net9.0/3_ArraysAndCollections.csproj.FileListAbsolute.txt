@@ -1,0 +1,15 @@
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/bin/Debug/net9.0/3_ArraysAndCollections
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/bin/Debug/net9.0/3_ArraysAndCollections.deps.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/bin/Debug/net9.0/3_ArraysAndCollections.runtimeconfig.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/bin/Debug/net9.0/3_ArraysAndCollections.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/bin/Debug/net9.0/3_ArraysAndCollections.pdb
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.AssemblyInfoInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.AssemblyInfo.cs
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.csproj.CoreCompileInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.sourcelink.json
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/refint/3_ArraysAndCollections.dll
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.pdb
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/3_ArraysAndCollections.genruntimeconfig.cache
+/Users/mehmetgulcu/Desktop/Tutorils Docs/C-Sharp-Tutorials/3_ArraysAndCollections/obj/Debug/net9.0/ref/3_ArraysAndCollections.dll
