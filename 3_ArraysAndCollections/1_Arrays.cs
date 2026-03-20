@@ -2,6 +2,7 @@ public class Arrays
 {
     public static void Run()
     {
+        // Bu örnek; tek boyutlu, çok boyutlu ve jagged array türlerini gösterir.
         // 1. Tek Boyutlu Diziler (Single-Dimensional Arrays)
 
         // Array tanımlama ve kullanma

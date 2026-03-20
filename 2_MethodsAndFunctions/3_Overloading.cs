@@ -23,22 +23,26 @@ public class Overloading
         }
 
         int result = GetSum(a, b);
+        // `int,int` overload'u ile hesaplanan toplam.
         Console.WriteLine("Toplam: " + result);
 
         // Farklı türlerde parametrelerle aşırı yüklenmiş metodu çağırma
         double c = 3.5;
         double d = 4.4;
         double doubleResult = GetSum(c, d);
+        // `double,double` overload'u ile hesaplanan toplam.
         Console.WriteLine("Double Toplam: " + doubleResult);
     }
 
     static int GetSum(int a, int b)
     {
+        // Aynı isimli overloadlardan biri (int toplama).
         return a + b;
     }
 
     static double GetSum(double c, double d)
     {
+        // Aynı isimli overloadlardan diğeri (double toplama).
         return c + d;
     }
 }

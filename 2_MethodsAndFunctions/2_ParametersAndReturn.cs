@@ -6,6 +6,7 @@ public class ParametersAndReturn
 
         Console.Write("Birinci sayıyı girin: ");
         string? sum1 = Console.ReadLine();
+        // Tutorial örneği: girişin geçerli bir tam sayıya dönüştürülebileceği varsayılır.
         int a = int.Parse(sum1);
         if (sum1 == null)
         {
@@ -15,6 +16,7 @@ public class ParametersAndReturn
 
         Console.Write("İkinci sayıyı girin: ");
         string? sum2 = Console.ReadLine();
+        // İkinci sayı da aynı şekilde int'e çevrilir.
         int b = int.Parse(sum2);
         if (sum2 == null)
         {
@@ -23,11 +25,13 @@ public class ParametersAndReturn
         }
 
         int result = GetSum(a, b);
+        // Hesap sonucunu konsola yazdırıyoruz.
         Console.WriteLine("Toplam: " + result);
     }
 
     static int GetSum(int a, int b)
     {
+        // Parametre olarak gelen sayıları toplar ve sonucu return eder.
         return a + b;
     }
 }

@@ -4,10 +4,12 @@ public class LocalFunctions
     {
         Console.WriteLine("Local Functions örneği:");
         
+        // Local function sadece bu metot içinde kullanılacak şekilde yardımcı hesap yapar.
         int carpimKatsayisi = 2;
 
         int Calculate(int a, int b)
         {
+            // Local function dışarıdaki carpimKatsayisi değerini de kullanır.
             return (a + b) * carpimKatsayisi;
         }
 

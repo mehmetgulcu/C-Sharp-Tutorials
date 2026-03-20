@@ -4,6 +4,7 @@ public class GenericCollection
 {
     public static void Run()
     {
+        // Bu örnekte generic koleksiyonlar kullanılıyor: tür bilgisi koleksiyonun kendisine bağlı.
         // 1. List<T> (Dinamik Liste)
         List<string> names = new List<string>();
         names.Add("Mehmet");
@@ -18,6 +19,7 @@ public class GenericCollection
             if (name == "Ahmet")
             {
                 Console.WriteLine("Ahmet bulundu!");
+                // Dikkat: Eğitim amaçlıdır. Listeyi foreach sırasında değiştirmek hata senaryolarına yol açabilir.
                 names.Remove(name); // Ahmet'i listeden kaldır
                 Console.WriteLine("Ahmet listeden kaldırıldı.");
                 break; // Döngüyü kırarak devam et

@@ -1,8 +1,10 @@
-﻿class Program
+class Program
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Dotnet Console uygulaması çalışıyor.");
+        // Bu projede diziler/koleksiyonlar konuları farklı Run() metotlarıyla ayrılmış.
+        // Çalıştırmak istediğini Program.cs içinden uncomment ederek seçebilirsin.
 
         // Arrays.Run();
         // GenericCollection.Run();

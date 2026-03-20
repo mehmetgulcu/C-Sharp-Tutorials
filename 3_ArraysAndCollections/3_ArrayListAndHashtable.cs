@@ -3,6 +3,7 @@ public class ArrayListAndHashtable
 {
     public static void Run()
     {
+        // ArrayList ve Hashtable; generic olmayan koleksiyonlardır (tür güvenliği daha zayıftır).
         // ArrayList
         ArrayList arrayList = new ArrayList();
         arrayList.Add(1);

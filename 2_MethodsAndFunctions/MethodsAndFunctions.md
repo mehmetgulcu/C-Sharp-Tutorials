@@ -1,3 +1,26 @@
+## MethodsAndFunctions - Kapsam ve İçindekiler
+
+Bu klasör, metot (function) kavramını pratik örneklerle öğretir. Her `.cs` dosyası, tek bir konuya odaklanır ve `Program.cs` üzerinden ilgili `Run()` çağrısı ile çalıştırılır.
+
+### Konu Başlıkları
+
+- `Program.cs` : Örnek seçimi
+- `1_MethodsAndCalls.cs` : Metot çağrısı
+- `2_ParametersAndReturn.cs` : Parametre ve `return`
+- `3_Overloading.cs` : Method Overloading
+- `4_Ref_Out.cs` : `ref` ve `out`
+- `5_Optionel_Parameters.cs` : Optional parameters
+- `6_Local_Functions.cs` : Local function
+- `7_Expression_Bodied_Members.cs` : Expression-bodied members
+
+### Kullanım
+
+Çalıştırmak istediğin örneğin `Program.cs` içindeki ilgili satırını aktif hale getirip projeyi çalıştır:
+
+```bash
+dotnet run
+```
+
 ## MethodsAndFunctions Tutorials
 
 `2_MethodsAndFunctions` projesi; C# dilinde metotların (functions) nasıl tanımlandığını ve nasıl kullanıldığını örnekler üzerinden anlatır.

@@ -7,6 +7,7 @@ public class ConditionalStatements
         int num = 10;
 
         // if - else if - else statement
+        // Aynı değişkenin farklı aralıklara göre farklı mesaj basmasını sağlıyor.
         if(num > 5)
         {
             Console.WriteLine("Number is greater than 5.");
@@ -20,6 +21,7 @@ public class ConditionalStatements
             Console.WriteLine("Number is 5 or less.");
         }
 
+        // switch: num değerine göre case bloklarından uygun olanı seçer.
         switch(num)
         {
             case 5:

@@ -15,6 +15,7 @@ public class OptionalParameters
 
         Console.Write("İkinci sayıyı girin (isteğe bağlı, varsayılan 0): ");
         string? sum2 = Console.ReadLine();
+        // Kullanıcı ikinci sayıyı girmezse b = 0 olarak devam edilir.
         int b = 0; // Varsayılan değer
         if (!string.IsNullOrEmpty(sum2))
         {
@@ -27,6 +28,7 @@ public class OptionalParameters
 
     static int GetSum(int a, int b = 0)
     {
+        // İsteğe bağlı parametre: b verilmezse otomatik olarak 0 olur.
         return a + b;
     }
 }

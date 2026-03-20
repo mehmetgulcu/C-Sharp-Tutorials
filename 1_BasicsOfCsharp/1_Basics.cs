@@ -4,6 +4,7 @@ public class Basics
 {
     public static void Run()
     {
+        // Temel veri türleri örneklerini değişkenlere atayıp konsola yazdırıyoruz.
         int number1 = 10;
         string text = "Hello, World!";
         bool isTrue = true;
@@ -11,6 +12,7 @@ public class Basics
         double pi = 3.14159;
         char letter = 'A';
 
+        // Değişken değerlerini konsola yazdırma.
         Console.WriteLine("Integer: " + number1);
         Console.WriteLine("String: " + text);
         Console.WriteLine("Boolean: " + isTrue);

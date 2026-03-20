@@ -7,5 +7,6 @@ public class ExpressionBodiedMembers
     }
 
     // Expression-bodied method
+    // `=>` ile tek satırda hem kodu kısaltır hem de sadece değer dönen metotlar için okunabilirlik artırırsın.
     public static int Add(int a, int b) => a + b;
 }
