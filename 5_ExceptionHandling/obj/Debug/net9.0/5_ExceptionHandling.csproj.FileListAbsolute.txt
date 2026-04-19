@@ -1,0 +1,15 @@
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/bin/Debug/net9.0/5_ExceptionHandling
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/bin/Debug/net9.0/5_ExceptionHandling.deps.json
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/bin/Debug/net9.0/5_ExceptionHandling.runtimeconfig.json
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/bin/Debug/net9.0/5_ExceptionHandling.dll
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/bin/Debug/net9.0/5_ExceptionHandling.pdb
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.AssemblyInfoInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.AssemblyInfo.cs
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.sourcelink.json
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.dll
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/refint/5_ExceptionHandling.dll
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.pdb
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/5_ExceptionHandling.genruntimeconfig.cache
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/5_ExceptionHandling/obj/Debug/net9.0/ref/5_ExceptionHandling.dll
