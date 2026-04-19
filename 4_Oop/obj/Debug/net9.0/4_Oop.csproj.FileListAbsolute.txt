@@ -1,0 +1,15 @@
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/bin/Debug/net9.0/4_Oop
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/bin/Debug/net9.0/4_Oop.deps.json
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/bin/Debug/net9.0/4_Oop.runtimeconfig.json
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/bin/Debug/net9.0/4_Oop.dll
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/bin/Debug/net9.0/4_Oop.pdb
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.AssemblyInfoInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.AssemblyInfo.cs
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.csproj.CoreCompileInputs.cache
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.sourcelink.json
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.dll
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/refint/4_Oop.dll
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.pdb
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/4_Oop.genruntimeconfig.cache
+/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/Debug/net9.0/ref/4_Oop.dll

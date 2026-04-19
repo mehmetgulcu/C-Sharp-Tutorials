@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/1_BasicsOfCsharp/1_BasicsOfCsharp.csproj",
-      "projectName": "1_BasicsOfCsharp",
-      "projectPath": "/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/1_BasicsOfCsharp/1_BasicsOfCsharp.csproj",
+      "projectUniqueName": "/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/4_Oop.csproj",
+      "projectName": "4_Oop",
+      "projectPath": "/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/4_Oop.csproj",
       "packagesPath": "/Users/mehmetgulcu/.nuget/packages/",
-      "outputPath": "/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/1_BasicsOfCsharp/obj/",
+      "outputPath": "/Users/mehmetgulcu/Desktop/Tutorials/C-Sharp-Tutorials/4_Oop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mehmetgulcu/.nuget/NuGet/NuGet.Config"
